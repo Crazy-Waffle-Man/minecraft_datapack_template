@@ -1,5 +1,5 @@
 # minecraft_datapack_template
-Here's a pack.mcmeta that works for the latest version:
+Here's a pack.mcmeta that works for 1.21.4:
 {
   "pack": {
     "description": "A magical realm of wonder",
